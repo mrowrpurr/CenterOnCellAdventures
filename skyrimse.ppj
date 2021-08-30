@@ -11,7 +11,7 @@
     Final="false">
     <Variables>
         <!-- Set the name of your mod: -->
-        <Variable Name="ModName" Value="MOD_NAME" />
+        <Variable Name="ModName" Value="CHANGE THE MOD NAME HERE" />
         <!-- The folder where you store all of your mods -->
         <Variable Name="ModsFolder" Value="C:\Users\mrowr\Dropbox\Skyrim\Mods" />
         <!-- Optional folder with additional source code for imports -->
@@ -19,6 +19,7 @@
     </Variables>
     <Imports>
         <!-- <Import>@ImportsFolder\SKSE64\Scripts\Source</Import> -->
+        <!-- <Import>@ImportsFolder\Lilac\Scripts\Source</Import> -->
         <!-- <Import>@ImportsFolder\PapyrusUtil\Scripts\Source</Import> -->
         <!-- <Import>@ImportsFolder\UIExtensions\scripts\source</Import> -->
         <!-- <Import>@ImportsFolder\JContainers\scripts\source</Import> -->
